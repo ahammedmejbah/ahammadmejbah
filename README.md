@@ -1,4 +1,4 @@
-<h1 align="center">আসসালামুয়ালাইকুম, আমি, মেজবাহ আহাম্মাদ</h1>
+<h1 align="center">আসসালামুয়ালাইকুম. আমি, মেজবাহ আহাম্মাদ</h1>
 <h3 align="center">আমি মেশিন লার্নিং, ডাটা সায়েন্স, ডীপ লার্নিং, কম্পিউটার ভিসন, ডাটা মাইনিং নিয়ে কাজ করে থাকি।</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahammadmejbah&label=Profile%20views&color=0e75b6&style=flat" alt="ahammadmejbah" /> </p>
